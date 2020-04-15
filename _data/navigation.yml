@@ -1,10 +1,9 @@
-- name: Home
+- name: Beranda
   link: /
-- name: About
-  link: /about/
-- name: Apps
+- name: Model dan Hasil Simulasi
   link: /visualisations
-# - name: Covid-19
-#   link: /topics/covid19/
+- name: Tentang Kami
+  link: /about/
+
 
 

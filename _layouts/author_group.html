@@ -6,7 +6,7 @@ layout: default
 
 {{ content }}
 
-<p>The {{ group_data.name }} consists of the following members:</p>
+<p>The {{ group_data.name }} terdiri dari anggota di bawah ini:</p>
 
 <ul id="author-group">
 {% for author in group_data.members %}
@@ -17,8 +17,8 @@ layout: default
     {% else %}
 		  {{ author_data.name }}
     {% endif %}
-    {% if author_data.twitter %}
-      (<a href="https://twitter.com/{{ author_data.twitter }}">@{{ author_data.twitter }}</a>)
+    {% if author_data.institution %}
+      ({{ author_data.institution }})
     {% endif %}
   </li>
 {% endfor %}

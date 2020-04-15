@@ -1,56 +1,59 @@
 - id: nuning_nuraini
   name: Nuning Nuraini
+  institution: ITB
   url: https://www.itb.ac.id/staff/view/nuning-nuraini-sff
 - id: edy_soewono
   name: Edy Soewono
   url: https://www.itb.ac.id/staff/view/edy-soewono-ryt
+  institution: ITB
 - id: mochamad_apri
   name: Mochamad Apri
   url: https://www.itb.ac.id/staff/view/mochamad-apri-seq
+  institution: ITB
 - id: rudy_kusdiantara
   name: Rudy Kusdiantara
+  institution: ITB
 - id: dila_puspita
   name: Dila Puspita
+  institution: ITB
 - id: muhammad_fakhruddin
   name: Muhammad Fakhruddin
 - id: kamal_khairudin
   name: Kamal Khairudin S
+  institution: ITB
 - id: hadi_susanto
   name: Hadi Susanto
+  institution: Essex & Khalifa University
 - id: agus_hasan
   name: Agus Hasan
+  institution: University of Southern Denmark
 - id: firmansyah_kasim
   name: Firmansyah Kasim
+  institution: Oxford University
 - id: panji_hadisoemarto
   name: Panji Hadisoemarto
+  institution: Unpad
 - id: nanang_susyanto
   name: Nanang Susyanto
+  institution: UGM
 - id: endah_rokhmati
   name: Endah Rokhmati
+  institution: ITS
 - id: venansius_ryan
   name: Venansius Ryan
+  institution: ITS
 - id: hengky_kurniawan
   name: Hengky Kurniawan
+  institution: ITS
 - id: amirul_hakam
   name: Amirul Hakam
+  institution: ITS
 - id: agus_suryanto
   name: Agus Suryanto
+  institution: Universitas Brawijaya
 - id: meksianis_ndii
   name: Meksianis Ndii
-- id: itb-group
-  name: ITB
-- id: ln-group
-  name: Luar Negeri(dispora)
-- id: unpad-group
-  name: UNPAD
-- id: ugm-group
-  name: UGM
-- id: its-group
-  name: ITS
-- id: ub-group
-  name: UB
-- id: undana-group
-  name: Undana
+  institution: Undana
 - id: simcovid-group
   name: SimcovID (Simulasi dan pemodelan COVID-19 Indonesia)
   type: group
