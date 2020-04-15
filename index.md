@@ -6,4 +6,5 @@ Halaman ini digunakan untuk memberikan informasi mengenai SimcovID (Simulasi dan
 
 ### SimcovID (Simulasi dan pemodelan COVID-19 Indonesia)
 
+Tentang SimcovID lebih jauh, klik [disini]({% link about/ %})
 
