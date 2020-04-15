@@ -2,8 +2,9 @@
   link: /
 - name: About
   link: /about/
+- name: Apps
+  link: /visualisations
 # - name: Covid-19
 #   link: /topics/covid19/
-# - name: Apps
-#   link: /visualisations
+
 
