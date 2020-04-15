@@ -1,7 +1,7 @@
 - name: Beranda
   link: /
 - name: Model dan Hasil Simulasi
-  link: /visualisations
+  link: /simulation_model
 - name: Tentang Kami
   link: /about/
 
