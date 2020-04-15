@@ -1,234 +1,75 @@
-- id: adam_kucharski
-  name: Adam J Kucharski
-  email: adam.kucharski@lshtm.ac.uk
-  url: https://www.lshtm.ac.uk/aboutus/people/kucharski.adam
-  twitter: adamjkucharski
-- id: seb_funk
-  name: Sebastian Funk
-  email: sebastian.funk@lshtm.ac.uk
-  url: https://www.lshtm.ac.uk/aboutus/people/funk.sebastian
-  twitter: sbfnk
-- id: roz_eggo
-  name: Rosalind Eggo
-  email: r.eggo@lshtm.ac.uk
-  url: https://www.lshtm.ac.uk/aboutus/people/eggo.rosalind
-  twitter: rozeggo
-- id: petra_klepac
-  name: Petra Klepac
-  email: petra.klepac@lshtm.ac.uk
-  url: https://www.lshtm.ac.uk/aboutus/people/klepac.petra
-  twitter: petrakle
-- id: mark_jit
-  name: Mark Jit
-  email: mark.jit@lshtm.ac.uk
-  url: https://www.lshtm.ac.uk/aboutus/people/jit.mark
-- id: john_edmunds
-  name: W John Edmunds
-  email: john.edmunds@lshtm.ac.uk
-  url: https://www.lshtm.ac.uk/aboutus/people/edmunds.john
-- id: amy_gimma
-  name: Amy Gimma
-  email: amy.gimma@lshtm.ac.uk
-  url: https://www.lshtm.ac.uk/aboutus/people/gimma.amy
-  twitter: amyg225
-- id: stefan_flasche
-  name: Stefan Flasche
-  email: stefan.flasche@lshtm.ac.uk
-  url: https://www.lshtm.ac.uk/aboutus/people/flasche.stefan
-  twitter: StfnFlsch
-- id: billy_quilty
-  name: Billy J Quilty
-  email: billy.quilty@lshtm.ac.uk
-  url: https://www.lshtm.ac.uk/aboutus/people/quilty.billy
-  twitter: BQuilty
-- id: sam_clifford
-  name: Sam Clifford
-  email: sam.clifford@lshtm.ac.uk
-  url: https://www.lshtm.ac.uk/aboutus/people/clifford.sam
-  twitter: samclifford
-- id: sam_abbott
-  name: Sam Abbott
-  email: sam.abbott@lshtm.ac.uk
-  url:
-  twitter: seabbs
-- id: james_munday
-  name: James D Munday
-  email: james.munday@lshtm.ac.uk
-  url:
-  twitter: JDMunday
-- id: nikos_bosse
-  name: Nikos I Bosse
-  email: nikos.bosse@lshtm.ac.uk
-  url:
-  twitter: ftargument
-- id: joel_hellewell
-  name: Joel Hellewell
-  email: joel.hellewell@lshtm.ac.uk
-  url: https://www.lshtm.ac.uk/aboutus/people/hellewell.joel
-- id: hamish_gibbs
-  name: Hamish Gibbs
-  email: hamish.gibbs@lshtm.ac.uk
-  url:
-- id: yang_liu
-  name: Yang Liu
-  email: yang.liu@lshtm.ac.uk
-  url: https://www.lshtm.ac.uk/aboutus/people/liu.yang
-  twitter: yangliubeijing
-- id: nick_davies
-  name: Nicholas Davies
-  email: nicholas.davies@lshtm.ac.uk
-  url: https://www.lshtm.ac.uk/aboutus/people/davies.nicholas
-  twitter: _nickdavies
-- id: charlie_diamond
-  name: Charlie Diamond
-  email: charlie.diamond@lshtm.ac.uk
-  url: https://www.lshtm.ac.uk/aboutus/people/diamond.charlie
-- id: tim_russell
-  name: Timothy W Russell
-  email: timothy.russell@lshtm.ac.uk
-  url: https://www.lshtm.ac.uk/aboutus/people/russell.timothy
-  twitter: realtimothyruss
-- id: chris_jarvis
-  name: Christopher I Jarvis
-  email: christopher.jarvis@lshtm.ac.uk
-  url: https://www.lshtm.ac.uk/aboutus/people/jarvis.christopher
-  twitter: jarvis_stats
-- id: kevin_vanzandvoort
-  name: Kevin van Zandvoort
-  email: kevin.van-zandvoort@lshtm.ac.uk
-  url: https://www.lshtm.ac.uk/aboutus/people/van-zandvoort.kevin
-  twitter: kevinvzandvoort
-- id: fiona_sun
-  name: Fiona Sun
-  email: fiona.sun@lshtm.ac.uk
-  url: https://www.lshtm.ac.uk/aboutus/people/sun.fiona
-  twitter: yueqianfionasun
-- id: alicia_rosello
-  name: Alicia Rosello
-  email: alicia.rosello@lshtm.ac.uk
-  url:
-  twitter: rmjlros
-- id: carl_ab_pearson
-  name: Carl A.B. Pearson
-  email: carl.pearson@lshtm.ac.uk
-  url: https://www.lshtm.ac.uk/aboutus/people/pearson.carl
-  twitter: cap1024
-- id: kiesha_prem
-  name: Kiesha Prem
-  email: kiesha.prem@lshtm.ac.uk
-  url: https://www.lshtm.ac.uk/aboutus/people/prem.kiesha
-  twitter: kiesha_prem
-- id: thibaut_jombart
-  name: Thibaut Jombart
-  email: thibautjombart@gmail.com
-  url:
-  twitter: teebzR
-- id: yung_wai
-  name: Yung-Wai Desmond Chan
-  email: yung-wai.chan@lshtm.ac.uk
-  url:
-- id: june_chun
-  name: June Young Chun
-  email: june.y.chun@gmail.com
-  url:
-- id: ruwan_ratnayake
-  name: Ruwan Ratnayake
-  email: Ruwan.Ratnayake@lshtm.ac.uk
-  url: https://www.lshtm.ac.uk/aboutus/people/ratnayake.ruwan
-- id: robin_thompson
-  name: Robin N. Thompson
-  email: robin.thompson1988@gmail.com
-  url:
-- id: akira_endo
-  name: Akira Endo
-  email: akira.endo@lshtm.ac.uk
-  url: https://www.lshtm.ac.uk/aboutus/people/endo.akira
-  twitter: _akiraendo
-- id: emily_nightingale
-  name: Emily S Nightingale
-  email: emily.nightingale@lshtm.ac.uk
-  url:
-- id: simon_procter
-  name: Simon R Procter
-- id: olivier_lepolain
-  name: Olivier le Polain de Waroux
-  email: olivier.lepolain@phe.gov.uk
-- id: gwen_knight
-  name: Gwen Knight
-  email: gwen.knight@lshtm.ac.uk
-- id: kath_oreilly
-  name: Kathleen O'Reilly
-  email: kathleen.oreilly@lshtm.ac.uk
-  twitter: kathmoreilly
-  url: https://www.lshtm.ac.uk/aboutus/people/oreilly.kathleen
-- id: megan_auzenbergs
-  name: Megan Auzenbergs
-  email: megan.auzenbergs@lshtm.ac.uk
-  url: https://www.lshtm.ac.uk/aboutus/people/auzenbergs.megan
-- id: yalda_jafari
-  name: Yalda Jafari
-  email: yalda.jafari@lshtm.ac.uk
-- id: rachel_lowe
-  name: Rachel Lowe
-  email: rachel.lowe@lshtm.ac.uk
-  twitter: drrachellowe
-  url: https://www.lshtm.ac.uk/aboutus/people/lowe.rachel
-- id: cari_v_schalkwyk
-  name: Cari Van Schalkwyk
-- id: juliet_pulliam
-  name: Juliet R C Pulliam
-- id: anna_foss
-  name: Anna Foss
-- id: james_rubin
-  name: G James Rubin
-- id: quentin_leclerc
-  name: Quentin Leclerc
-  email: quentin.leclerc@lshtm.ac.uk
-  url: https://www.lshtm.ac.uk/aboutus/people/leclerc.quentin
-  twitter: QuentinLclrc
-- id: nick_golding
-  name: Nick Golding
-- id: andy_clark
-  name: Andrew Clark
-- id: other_collaborators
-  name: LSHTM and external collaborators
-- id: smart-group
-  name: SACEMA Modelling and Analysis Response Team
-- id: ncov-group
-  name: CMMID nCov working group
+- id: nuning_nuraini
+  name: Nuning Nuraini
+  url: https://www.itb.ac.id/staff/view/nuning-nuraini-sff
+- id: edy_soewono
+  name: Edy Soewono
+  url: https://www.itb.ac.id/staff/view/edy-soewono-ryt
+- id: mochamad_apri
+  name: Mochamad Apri
+  url: https://www.itb.ac.id/staff/view/mochamad-apri-seq
+- id: rudy_kusdiantara
+  name: Rudy Kusdiantara
+- id: dila_puspita
+  name: Dila Puspita
+- id: muhammad_fakhruddin
+  name: Muhammad Fakhruddin
+- id: kamal_khairudin
+  name: Kamal Khairudin S
+- id: hadi_susanto
+  name: Hadi Susanto
+- id: agus_hasan
+  name: Agus Hasan
+- id: firmansyah_kasim
+  name: Firmansyah Kasim
+- id: panji_hadisoemarto
+  name: Panji Hadisoemarto
+- id: nanang_susyanto
+  name: Nanang Susyanto
+- id: endah_rokhmati
+  name: Endah Rokhmati
+- id: venansius_ryan
+  name: Venansius Ryan
+- id: hengky_kurniawan
+  name: Hengky Kurniawan
+- id: amirul_hakam
+  name: Amirul Hakam
+- id: agus_suryanto
+  name: Agus Suryanto
+- id: meksianis_ndii
+  name: Meksianis Ndii
+- id: itb-group
+  name: ITB
+- id: ln-group
+  name: Luar Negeri(dispora)
+- id: unpad-group
+  name: UNPAD
+- id: ugm-group
+  name: UGM
+- id: its-group
+  name: ITS
+- id: ub-group
+  name: UB
+- id: undana-group
+  name: Undana
+- id: simcovid-group
+  name: SimcovID (Simulasi dan pemodelan COVID-19 Indonesia)
   type: group
   members:
-   - adam_kucharski
-   - seb_funk
-   - roz_eggo
-   - petra_klepac
-   - mark_jit
-   - john_edmunds
-   - amy_gimma
-   - stefan_flasche
-   - billy_quilty
-   - sam_clifford
-   - sam_abbott
-   - james_munday
-   - nikos_bosse
-   - joel_hellewell
-   - hamish_gibbs
-   - yang_liu
-   - nick_davies
-   - charlie_diamond
-   - tim_russell
-   - chris_jarvis
-   - kevin_vanzandvoort
-   - fiona_sun
-   - alicia_rosello
-   - carl_ab_pearson
-   - kiesha_prem
-   - thibaut_jombart
-   - emily_nightingale
-   - simon_procter
-   - gwen_knight
-   - kath_oreilly
-   - megan_auzenbergs
-   - yalda_jafari
-   - rachel_lowe
-   - quentin_leclerc
+   - nuning_nuraini
+   - edy_soewono
+   - mochamad_apri
+   - rudy_kusdiantara
+   - dila_puspita
+   - muhammad_fakhruddin
+   - kamal_khairudin
+   - hadi_susanto
+   - agus_hasan
+   - firmansyah_kasim
+   - panji_hadisoemarto
+   - nanang_susyanto
+   - endah_rokhmati
+   - venansius_ryan
+   - hengky_kurniawan
+   - amirul_hakam
+   - agus_suryanto
+   - meksianis_ndii

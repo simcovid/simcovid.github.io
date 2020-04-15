@@ -1,8 +1,9 @@
 - name: Home
   link: /
-- name: Covid-19
-  link: /topics/covid19/
-- name: Apps
-  link: /visualisations
 - name: About
   link: /about/
+# - name: Covid-19
+#   link: /topics/covid19/
+# - name: Apps
+#   link: /visualisations
+
