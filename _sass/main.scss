@@ -6,6 +6,7 @@ $color_lshtm_lightgreen: #00BF6F;
 $color_lshtm_lightgrey: #eee;
 $color_lshtm_darkgrey: #b9b9b9;
 $color_lshtm_blue: #1E22AA;
+$color_lshtm_blue_azure: #0080FE;
 
 /* general options */
 html {
@@ -40,7 +41,7 @@ header img.logo {
     position: relative;
 }
 header, header .navbar {
-    background-color: $color_lshtm_darkgreen;
+    background-color: $color_lshtm_blue_azure;
 }
 .navbar {
 	margin-bottom: 0;
