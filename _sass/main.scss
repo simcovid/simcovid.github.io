@@ -41,7 +41,7 @@ header img.logo {
     position: relative;
 }
 header, header .navbar {
-    background-color: $color_lshtm_blue_azure;
+    background-color: $color_lshtm_darkgreen;
 }
 .navbar {
 	margin-bottom: 0;
@@ -56,7 +56,7 @@ header, header .navbar {
 	color: #fff;
 }
 .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:focus, .navbar-inverse .navbar-nav > .active > a:hover {
-    background-color: $color_lshtm_lightgreen;
+    background-color: $color_lshtm_darkgreen;
     color: #000;
 }
 .navbar li:hover a {
