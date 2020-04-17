@@ -28,21 +28,26 @@
 - id: hadi_susanto
   name: Hadi Susanto
   institution: Essex & Khalifa University
+  url: https://www.essex.ac.uk/people/susan71907/hadi-susanto
 - id: agus_hasan
   name: Agus Hasan
+  url: https://scholar.google.com/citations?user=k7wAg2kAAAAJ
   institution: University of Southern Denmark
 - id: firmansyah_kasim
   name: Firmansyah Kasim
   institution: Oxford University
+  url: https://scholar.google.co.id/citations?user=WmeftKUAAAAJ&hl=id
 - id: panji_hadisoemarto
   name: Panji Hadisoemarto
   institution: Unpad
 - id: nanang_susyanto
   name: Nanang Susyanto
   institution: UGM
+  url: https://nanang.staff.ugm.ac.id/
 - id: endah_rokhmati
   name: Endah Rokhmati
   institution: ITS
+  url: https://www.its.ac.id/matematika/en/lecturer-and-staff/list-of-lecturers/endah-rokhmati/
 - id: venansius_ryan
   name: Venansius Ryan
   institution: ITS
@@ -55,9 +60,11 @@
 - id: agus_suryanto
   name: Agus Suryanto
   institution: Universitas Brawijaya
+  url: https://scholar.google.co.id/citations?user=rTsQl_8AAAAJ&hl=en
 - id: meksianis_ndii
   name: Meksianis Ndii
   institution: Undana
+  url: https://scholar.google.co.id/citations?user=RTnmyAYAAAAJ&hl=id
 - id: simcovid-group
   name: SimcovID (Simulasi dan pemodelan COVID-19 Indonesia)
   type: group

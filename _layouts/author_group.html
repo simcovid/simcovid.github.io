@@ -8,10 +8,53 @@ layout: default
 
 <p>Tim {{ group_data.name }} terdiri dari anggota di bawah ini:</p>
 
-<ul id="author-group">
+{% assign author_instituion = '' %}
 {% for author in group_data.members %}
-	{% assign author_data = site.data.authors | where: "id", author | first %}
-  <li>
+  {% assign author_data = site.data.authors | where: "id", author | first %}
+  {% if author_data.institution !=  author_instituion %}
+    {% if author_instituion != '' %}
+      </ul>
+    {% endif %}
+    {% assign author_instituion = author_data.institution %}
+    <h3>{{ author_data.institution }}</h3>
+    <ul id="author-group">
+      <li>
+        {% if author_data.url %}
+          <a href="{{ author_data.url }}">{{ author_data.name }}</a>
+        {% else %}
+          {{ author_data.name }}
+        {% endif %}
+        <!-- {% if author_data.institution %}
+          ({{ author_data.institution }})
+        {% endif %} -->
+      </li>
+      {% if forloop.last %}
+        </ul>
+      {% endif %}
+  {% else %}
+    <li>
+      {% if author_data.url %}
+        <a href="{{ author_data.url }}">{{ author_data.name }}</a>
+      {% else %}
+        {{ author_data.name }}
+      {% endif %}
+      <!-- {% if author_data.institution %}
+        ({{ author_data.institution }})
+      {% endif %} -->
+    </li>
+    {% if forloop.last %}
+      </ul>
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
+
+
+
+<!-- <ul id="author-group"> -->
+<!-- {% for author in group_data.members %} -->
+	<!-- {% assign author_data = site.data.authors | where: "id", author | first %} -->
+  <!-- <li>
     {% if author_data.url %}
       <a href="{{ author_data.url }}">{{ author_data.name }}</a>
     {% else %}
@@ -22,11 +65,11 @@ layout: default
     {% endif %}
   </li>
 {% endfor %}
-</ul>
+</ul> -->
 
 <script>
   var list = document.getElementById("author-group");
   for (var i = list.children.length; i >= 0; i--) {
-    list.appendChild(list.children[Math.random() * i | 0]);
+    list.appendChild(list.children[i | 0]);
   }
 </script>
