@@ -5,8 +5,8 @@ title: Model Covid19 dan Hasil Simulasi SimcovID
 ---
 
 ## Hasil dari perhitungan simulasi dan model COVID 19 Indonesia dari Tim dapat dilihat pada tautan berikut:
- - Model Richard’s Curve
- - Model tracing untuk kasus Wuhan, Kapal Diamond Princess dan Jakarta
+ - <a href="http://journals.itb.ac.id/index.php/cbms/article/view/13395" target="_blank"> Model Richard’s Curve </a>
+ - <a href="http://journals.itb.ac.id/index.php/cbms/article/view/13441" target="_blank">Model tracing untuk kasus Wuhan, Kapal Diamond Princess dan Jakarta</a>
  - [Topik] Perhitungan Mas Firman 
  - [Topik] Perhitungan Mas Agus
  - Perhitungan Mas Rully
