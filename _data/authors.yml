@@ -65,6 +65,10 @@
   name: Meksianis Ndii
   institution: Undana
   url: https://scholar.google.co.id/citations?user=RTnmyAYAAAAJ&hl=id
+- id: faris_priadi
+  name: Faris Priadi
+  institution: Webmaster
+  url: https://www.linkedin.com/in/faris-priadi-9ba17245/
 - id: simcovid-group
   name: SimcovID (Simulasi dan pemodelan COVID-19 Indonesia)
   type: group
@@ -87,3 +91,4 @@
    - amirul_hakam
    - agus_suryanto
    - meksianis_ndii
+   - faris_priadi
