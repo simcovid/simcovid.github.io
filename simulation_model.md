@@ -28,3 +28,4 @@ Tim ini bekerja secara independen berdiskusi secara online, dan memberikan hasil
 - <a href="https://simcovid.github.io/topics/model_tracing_untuk_kasus_wuhan/SimcoviD%20update%20020420%20V1.pdf">Update 020420 pertama </a>
 - <a href="https://simcovid.github.io/topics/model_tracing_untuk_kasus_wuhan/SimcoviD%20update%20060420.pdf"> Update 060420</a>
 - <a href="https://simcovid.github.io/topics/model_tracing_untuk_kasus_wuhan/SimcoviD%20update%20160420.pdf">Update 160420</a>
+- <a href="http://simcovid.github.io/topics/model_tracing_untuk_kasus_wuhan/Modelling%20Update SimcovID%20220420.pdf">Update 220420</a>
