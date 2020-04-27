@@ -12,13 +12,13 @@ layout: default
     <h1>{% include fn_getcatname cat=page.tag %}</h1>
 	
 	{{content}}
-	
+
 	{% unless page.show_subcategories == false %}
 		{% include category_subcategories.html %}
 	{% endunless %}
 	
 	{% unless page.show_posts == false %}
-		<h3>{% include fn_gettranslation string="The list below shows all our work on this topic" lang=page.language %}</h3>
+		<h3>{% include fn_gettranslation string="Berikut daftar hasil yang telah kami kerjakan" lang=page.language %}</h3>
 		{% include category_posts.html %}
 	{% endunless %}
 	

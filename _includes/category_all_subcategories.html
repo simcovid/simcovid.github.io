@@ -1,0 +1,39 @@
+{% comment %}
+ *	- loop through all posts within current category
+ *	- save any category that is a subcategory
+ *	i.e. that is not current or parent category
+ *	- ignore any duplicate values
+{% endcomment %}
+{% for category in site.categories %}
+	{% assign subcategories = '' | split: '' %}
+
+	{% if page.language %}
+		{% assign posts = category | where: "language", page.language %}
+	{% else %}
+		{% assign posts = '' | split: '*' %}
+		{% for post in category %}
+			{% if post.language.size == %}
+				{% assign posts = posts | push:post %}
+			{% endif %}
+		{% endfor %}
+	{% endif %}
+
+	{% for post in posts %}
+		{% assign use_category = false %}
+		{% for post_cat in post.categories %}
+			{{% post.title %}}
+			{% unless use_category == false or subcategories contains post_cat %}	
+				{% assign subcategories = subcategories | push: post_cat %}
+			{% endunless %}
+			{% if post_cat == category.id %}
+				{% assign use_category = true %}
+			{% endif %}
+		{% endfor %}
+	{% endfor %}
+{% endfor %}
+{% unless subcategories.size == 0 %}
+	<h3>{% include fn_gettranslation string="Kami membagi pekerjaan menjadi beberapa kategori" lang=page.language %}:</h3>
+	{% for cat in subcategories %}
+		<p><a href="{{cat}}">{% include fn_getcatname cat=cat %}</a></p>
+	{% endfor %}
+{% endunless %}

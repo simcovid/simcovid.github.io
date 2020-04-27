@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<div class="blog list">
+	
+	
+	{{content}}
+
+	{% unless page.show_subcategories == false %}
+		{% include category_subcategories.html %}
+	{% endunless %}
+	
+	{% unless page.show_posts == false %}
+		<h3>{% include fn_gettranslation string="Update SimcovID" lang=page.language %}</h3>
+		{% include category_all_posts.html %}
+	{% endunless %}
+	
+</div>
