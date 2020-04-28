@@ -20,5 +20,5 @@ Beberapa kesimpulan  dari hasil pekerjaan kami antara lain,
 - Dalam menerapkan karantina wilayah, kecepatan identifikasi hasil rapid test akan menentukan kecepatan tercapainya puncak sekaligus penurunan kasus.
 
 
-Report pdf  [Update 060420]("http://simcovid.github.io/topics/model_tracing_untuk_kasus_wuhan/SimcoviD%20update%20060420.pdf")
+Report pdf  [Update 060420]("http://simcovid.github.io/topics/simulation_model/modelling/report/SimcoviD%20update%20060420.pdf")
 

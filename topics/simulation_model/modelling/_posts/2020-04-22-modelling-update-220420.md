@@ -21,5 +21,5 @@ Terdapat beberapa kesimpulan yang dapat diambil dari hasil pekerjaan kami kali i
 
 
 
-Report pdf  [Update 220420]("http://simcovid.github.io/topics/model_tracing_untuk_kasus_wuhan/Modelling%20Update%20SimcovID%20220420.pdf")
+Report pdf  [Update 220420]("http://simcovid.github.io/topics/simulation_model/modelling/report/Modelling%20Update%20SimcovID%20220420.pdf")
 

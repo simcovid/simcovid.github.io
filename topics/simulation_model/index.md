@@ -22,4 +22,4 @@ Pada tulisan ini dimuat perhitungan bagaimana mengukur efektivitas PSBB dan perb
 - Setelah PSBB berhasil dan kasus transmisi lokal sudah tidak ada, masih ada kemungkinan terjadinya gelombang kedua. Tes massal dan penelusuran kontak sebaiknya tetap dilakukan secara agresif untuk memperlambat penyebaran gelombang kedua.
 
 ## Update SimcovID
-Tim ini bekerja secara independen berdiskusi secara online, dan memberikan hasilnya dalam bentuk laporan singkat sebagai berikut, beberapa tulisan sedang dipersiapkan untuk publikasi di jurnal ilmiah. File update tim dapat dilihat pada tautan berikut.
+Tim ini bekerja secara independen berdiskusi secara online, dan memberikan hasilnya dalam bentuk laporan singkat sebagai berikut, beberapa tulisan sedang dipersiapkan untuk publikasi di jurnal ilmiah. Update pekerjaan tim dapat dilihat pada postingan di bawah ini.
