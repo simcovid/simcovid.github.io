@@ -3,7 +3,7 @@ tag: simulation_model
 show_posts: true
 ---
 
-## Hasil dari perhitungan simulasi dan model COVID 19 Indonesia dari Tim dapat dilihat pada tautan berikut:
+### Hasil dari perhitungan simulasi dan model COVID 19 Indonesia dari Tim dapat dilihat pada tautan berikut:
 
 ### <a href="http://journals.itb.ac.id/index.php/cbms/article/view/13395" target="_blank">Model Richard’s Curve </a>
 Model ini menggunakan metode pendekatan fitting data, dan hanya menggunakan data awal endemic di Indonesia, model ini bisa menentukan parameter yang digunakan pada formulasi kurva Richard untuk menentukan puncak dan akhir endemi. Model ini merupakan model awal saja dan tidak bisa mengukur intervensi yang dilakukan untuk mencegah penyebaran wabah penyakit ini. Khusus untuk perhitungan di Indonesia, metode ini juga dijelaskan pada tulisan berikut.
