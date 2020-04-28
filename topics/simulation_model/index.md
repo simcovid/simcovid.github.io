@@ -1,6 +1,7 @@
 ---
 tag: simulation_model
-show_posts: true
+title: Model COVID-19 dan Hasil Simulasi SimcovID
+show_subcategories: true
 ---
 
 ### Hasil dari perhitungan simulasi dan model COVID 19 Indonesia dari Tim dapat dilihat pada tautan berikut
