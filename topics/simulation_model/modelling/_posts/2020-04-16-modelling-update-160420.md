@@ -17,5 +17,5 @@ Terdapat beberapa kesimpulan yang dapat diambil dari hasil pekerjaan kami kali i
 - Rapid testing harus diperbanyak, sampai 12 April rapid testing baru dilakukan ke 0.01% populasi. Setidaknya rapid testing harus dilakukan ke 1% populasi, supaya gambaran penularan bisa terlihat lebih jelas.
 
 
-Report pdf  [Update 160420]("http://simcovid.github.io/topics/simulation_model/modelling/report/SimcoviD%20update%20160420.pdf")
+Report pdf  [Update 160420](/topics/simulation_model/modelling/report/Modelling%20Update%20SimcovID%20160420.pdf)
 
