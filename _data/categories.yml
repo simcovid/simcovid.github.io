@@ -1,2 +1,4 @@
 - id: simulation_model
   # name: Model COVID-19 dan Hasil Simulasi SimcovID
+- id: webinar
+  name: Webinar
