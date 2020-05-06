@@ -4,14 +4,13 @@ title: Webinar Mathematical Perspective COVID-19 Indonesia
 
 Webinar ini dapat diakses melalui Zoom dan Channel Youtube. 
 
-### Zoom Cloud Meetings
+## Zoom Cloud Meetings
 
-<a href="https://us02web.zoom.us/j/8343310745?pwd=MzhRYXFNb0ZvVzNGa2N1aERIdHd0UT09">Join Zoom Meeting</a>
+### <a href="https://us02web.zoom.us/j/8343310745?pwd=MzhRYXFNb0ZvVzNGa2N1aERIdHd0UT09">Join Zoom Meeting</a>
 
-<pre>
-Meeting ID: 834 331 0745
-Password: IBMS2020
-</pre>
+
+> Meeting ID: 834 331 0745 <br/> Password: IBMS2020
+
 
 <!-- ### Youtube Channel -->
 
