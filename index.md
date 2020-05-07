@@ -11,8 +11,8 @@ Halaman ini digunakan untuk memberikan informasi mengenai SimcovID (Simulasi dan
 Tentang SimcovID lebih jauh, klik [disini]({% link about.md %})
 
 # Event : Webinar Mathematical Perspective COVID-19 Indonesia
-Informasi mengenai webinar selengkapnya [disini]({% link webinar/webinar/index.md %})
-<img src="webinar/webinar/figures/Webinar COVID-19 INDONESIA-v6.png" width="65%" /><br>
+Informasi mengenai webinar selengkapnya [disini]({% link events/webinar/index.md %})
+<img src="events/webinar/figures/Webinar COVID-19 INDONESIA-v6.png" width="65%" /><br>
 
 
 
