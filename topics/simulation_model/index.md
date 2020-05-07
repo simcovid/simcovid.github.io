@@ -4,6 +4,12 @@ title: Model COVID-19 dan Hasil Simulasi SimcovID
 show_subcategories: true
 ---
 
+<div>
+	<blockquote>
+	<b>Disclaimer</b> <br/>
+    <i>Hasil yang ditampilkan hanya untuk keperluan edukasi dan penelitian.</i></blockquote>
+</div>
+
 ### Hasil dari perhitungan simulasi dan model COVID 19 Indonesia dari Tim dapat dilihat pada tautan berikut
 
 ### <a href="http://journals.itb.ac.id/index.php/cbms/article/view/13395" target="_blank">Model Richard’s Curve </a>
