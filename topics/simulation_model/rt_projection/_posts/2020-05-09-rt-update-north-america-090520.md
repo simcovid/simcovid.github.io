@@ -13,7 +13,7 @@ update: 2020-05-09
 
 Update proyeksi Rt harian dan simulasi puncak berdasarkan nilai kontak untuk 11 negara di Amerika Utara. 
 
-*Data yang digunakan hingga 8 Mei 2020*.
+*Data yang digunakan hingga 9 Mei 2020*.
 
 
 ### North America

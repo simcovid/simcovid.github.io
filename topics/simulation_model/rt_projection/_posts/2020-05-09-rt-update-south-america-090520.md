@@ -13,7 +13,7 @@ update: 2020-05-09
 
 Update proyeksi Rt harian dan simulasi puncak berdasarkan nilai kontak untuk 15 negara di Amerika Selatan. 
 
-*Data yang digunakan hingga 8 Mei 2020*.
+*Data yang digunakan hingga 9 Mei 2020*.
 
 
 ### South America
