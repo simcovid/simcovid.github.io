@@ -20,7 +20,7 @@ Bahan webinar yang telah dipaparkan oleh narasumber juga dapat diakses melalui t
 
 - Prof. Edy Soewono - [Memahami Model SEIR](/topics/events/webinar/report/Webinar_ES.pdf)
 - Prof. Hadi Susanto - [How many can you infect?](/topics/events/webinar/report/Webinar_HS.pdf)
-- Prof. Asep K. Supriatna
+- Prof. Asep K. Supriatna - [Estimasi Angka Reproduksi Efektif Penyebaran COVID-19 di Indonesia melalui Rekonstruksi Kurva Kasus Aktif](/topics/events/webinar/report/Webinar_AKS.pdf)
 - Dr. Nuning Nuraini - [Maraton COVID-19 Indonesia : Antara Edukasi dan Penelitian](/topics/events/webinar/report/Webinar_NN.pdf)
 - Dr. M. Firmansyah Kasim - [Analisa COVID-19 di Indonesia dengan teorema Bayesian](/topics/events/webinar/report/Webinar_MKF.pdf)
 - Dr. Agus Hasan - [Data-Driven Modeling dan Forecasting untuk Transmisi COVID-19](/topics/events/webinar/report/Webinar_AH.pdf)
