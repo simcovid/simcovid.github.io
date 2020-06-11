@@ -1,7 +1,7 @@
 ---
 title: Update Proyeksi Rt Harian dan Simulasi Puncak di Indonesia
 
-description: Update proyeksi Rt harian dan simulasi puncak berdasarkan nilai kontak untuk 28 provinsi di Indonesia.
+description: Update proyeksi Rt harian dan simulasi puncak berdasarkan nilai kontak untuk 27 provinsi di Indonesia.
 
 status: published
 
@@ -11,7 +11,7 @@ update: 2020-06-10
 ---
 
 
-Update proyeksi Rt harian dan simulasi puncak berdasarkan nilai kontak untuk 28 provinsi di Indonesia.
+Update proyeksi Rt harian dan simulasi puncak berdasarkan nilai kontak untuk 27 provinsi di Indonesia.
 
 *Transmission Index (TI) adalah rasio antara nilai Rt saat ini dengan nilai Rt maksimum disatu daerah. TI antar daerah bukan untuk dibandingkan. TI bisa digunakan untuk melihat berbagai sekenario yg munkin akan terjadi dimasa yang akan datang, terutama mengenai wacana pengetatan atau pelonggaran PSBB.*
 
@@ -35,7 +35,6 @@ Update proyeksi Rt harian dan simulasi puncak berdasarkan nilai kontak untuk 28 
 <img src="figures/update_100620/Covid_Meter_Kalimantan_Tengah.jpeg" width="65%" /> <br> 
 <img src="figures/update_100620/Covid_Meter_Kalimantan_Timur.jpeg" width="65%" /> <br> 
 <img src="figures/update_100620/Covid_Meter_Kalimantan_Utara.jpeg" width="65%" /> <br> 
-<img src="figures/update_100620/Covid_Meter_Kepulauan_Bangka_Belitung.jpeg" width="65%" /> <br> 
 <img src="figures/update_100620/Covid_Meter_Kepulauan_Riau.jpeg" width="65%" /> <br> 
 <img src="figures/update_100620/Covid_Meter_Lampung.jpeg" width="65%" /> <br> 
 <img src="figures/update_100620/Covid_Meter_Maluku.jpeg" width="65%" /> <br> 
