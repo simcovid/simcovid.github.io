@@ -1,4 +1,10 @@
 - id: simulation_model
   # name: Model COVID-19 dan Hasil Simulasi SimcovID
 - id: events
-  # name: Webinar
+  # name: Events
+- id: rt_projection
+  name: RT Projection
+- id: modelling
+  name: Modelling
+- id: webinar
+  name: Webinar

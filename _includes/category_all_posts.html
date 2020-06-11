@@ -1,3 +1,5 @@
+
+{% assign all_posts = '' | split: '*' %}
 {% for category in site.categories %}
 	{% assign cat = category[0] %}
 	{% if page.language %}
@@ -10,9 +12,12 @@
 			{% endif %}
 		{% endfor %}
 	{% endif %}
+	{% assign all_posts = all_posts | concat: posts %}
 {% endfor %}
 
-{% if posts.size > 0 %}
+
+{% assign used_posts = '' | split: '*' %}
+{% if all_posts.size > 0 %}
 	<div class="posts">
 	<div class="filter">
 		<div class="top">
@@ -29,7 +34,7 @@
 			<div class="wrapper">
 				{% assign statusses = 'in-progress' | split: '*' %}
 
-				{% for post in posts %}
+				{% for post in all_posts %}
 					{% unless statusses contains post.status %}
 						{% if post.status %}
 							{% assign translated_status = include fn_gettranslation string=post.status lang=page.language %}
@@ -46,16 +51,19 @@
 				{% endunless %}
 				
 				{% assign subcategories = '' | split: '' %}
-				{% for post in posts %}
+				{% for post in all_posts %}
 					{% assign use_category = false %}
 					{% for post_cat in post.categories %}
 						{{% post.title %}}
-						{% unless use_category == false or subcategories contains post_cat %}	
-							{% assign subcategories = subcategories | push: post_cat %}
+						{% unless used_posts contains post %}:
+							{% assign used_posts = used_posts | push:post %}
+							{% unless use_category == false or subcategories contains post_cat %}	
+								{% assign subcategories = subcategories | push: post_cat %}
+							{% endunless %}
+							{% if post_cat == cat %}
+								{% assign use_category = true %}							
+							{% endif %}
 						{% endunless %}
-						{% if post_cat == cat %}
-							{% assign use_category = true %}
-						{% endif %}
 					{% endfor %}
 				{% endfor %}
 				{% unless subcategories.size == 0 %}
@@ -68,7 +76,7 @@
 			</div>
 		</div>
 	</div>
-	{% assign posts_sorted = posts %}	
+	{% assign posts_sorted = used_posts %}	
 	{% assign posts_sorted = (posts_sorted | sort: 'update') | reverse %}
 	{% for post in posts_sorted %}
 		{% if post.status %}
