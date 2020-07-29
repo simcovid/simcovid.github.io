@@ -1,30 +1,26 @@
 - id: nuning_nuraini
   name: Nuning Nuraini
-  institution: ITB
+  institution: Institut Teknologi Bandung
   url: https://www.itb.ac.id/staff/view/nuning-nuraini-sff
 - id: edy_soewono
   name: Edy Soewono
   url: https://www.itb.ac.id/staff/view/edy-soewono-ryt
-  institution: ITB
+  institution: Institut Teknologi Bandung
 - id: mochamad_apri
   name: Mochamad Apri
   url: https://www.itb.ac.id/staff/view/mochamad-apri-seq
-  institution: ITB
+  institution: Institut Teknologi Bandung
 - id: rudy_kusdiantara
   name: Rudy Kusdiantara
-  institution: ITB
+  institution: Institut Teknologi Bandung
   url: https://www.itb.ac.id/staff/view/rudy-kusdiantara-waqa
 - id: dila_puspita
   name: Dila Puspita
-  institution: ITB
+  institution: Institut Teknologi Bandung
   url: https://www.itb.ac.id/staff/view/dila-puspita-rww
-- id: muhammad_fakhruddin
-  name: Muhammad Fakhruddin
-  institution: ITB
-  url: https://scholar.google.co.id/citations?user=2g-JQMkAAAAJ&hl=en
 - id: kamal_khairudin
   name: Kamal Khairudin S
-  institution: ITB
+  institution: Institut Teknologi Bandung
 - id: hadi_susanto
   name: Hadi Susanto
   institution: Essex & Khalifa University
@@ -39,32 +35,36 @@
   url: https://scholar.google.co.id/citations?user=WmeftKUAAAAJ&hl=id
 - id: panji_hadisoemarto
   name: Panji Hadisoemarto
-  institution: Unpad
+  institution: Universitas Padjadjaran
 - id: nanang_susyanto
   name: Nanang Susyanto
-  institution: UGM
+  institution: Universitas Gadjah Mada
   url: https://nanang.staff.ugm.ac.id/
 - id: endah_rokhmati
   name: Endah Rokhmati
-  institution: ITS
+  institution: Institut Teknologi Sepuluh Nopember
   url: https://www.its.ac.id/matematika/en/lecturer-and-staff/list-of-lecturers/endah-rokhmati/
 - id: venansius_ryan
   name: Venansius Ryan
-  institution: ITS
+  institution: Institut Teknologi Sepuluh Nopember
 - id: hengky_kurniawan
   name: Hengky Kurniawan
-  institution: ITS
+  institution: Institut Teknologi Sepuluh Nopember
 - id: amirul_hakam
   name: Amirul Hakam
-  institution: ITS
+  institution: Institut Teknologi Sepuluh Nopember
 - id: agus_suryanto
   name: Agus Suryanto
   institution: Universitas Brawijaya
   url: https://scholar.google.co.id/citations?user=rTsQl_8AAAAJ&hl=en
 - id: meksianis_ndii
   name: Meksianis Ndii
-  institution: Undana
+  institution: Universitas Nusa Cendana
   url: https://scholar.google.co.id/citations?user=RTnmyAYAAAAJ&hl=id
+- id: muhammad_fakhruddin
+  name: Muhammad Fakhruddin
+  institution: Universitas Pertahanan Indonesia
+  url: https://scholar.google.co.id/citations?user=2g-JQMkAAAAJ&hl=en
 - id: faris_priadi
   name: Faris Priadi
   institution: Webmaster
@@ -78,7 +78,6 @@
    - mochamad_apri
    - rudy_kusdiantara
    - dila_puspita
-   - muhammad_fakhruddin
    - kamal_khairudin
    - hadi_susanto
    - agus_hasan
@@ -91,4 +90,5 @@
    - amirul_hakam
    - agus_suryanto
    - meksianis_ndii
+   - muhammad_fakhruddin
    - faris_priadi
