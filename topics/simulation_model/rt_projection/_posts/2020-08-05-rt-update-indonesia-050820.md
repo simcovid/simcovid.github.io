@@ -1,7 +1,7 @@
 ---
-title: Update Proyeksi Rt Harian dan Simulasi Puncak di Indonesia
+title: Update Proyeksi Rt Harian di Indonesia
 
-description: Update proyeksi Rt harian dan simulasi puncak berdasarkan nilai kontak untuk 34 provinsi di Indonesia.
+description: Update proyeksi Rt harian berdasarkan nilai kontak untuk 34 provinsi di Indonesia.
 
 status: published
 
