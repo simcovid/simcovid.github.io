@@ -15,7 +15,7 @@ Update proyeksi Rt harian dan simulasi puncak berdasarkan nilai kontak untuk 34 
 
 *Transmission Index (TI) adalah rasio antara nilai Rt saat ini dengan nilai Rt maksimum disatu daerah. TI antar daerah bukan untuk dibandingkan. TI bisa digunakan untuk melihat berbagai sekenario yg munkin akan terjadi dimasa yang akan datang, terutama mengenai wacana pengetatan atau pelonggaran PSBB.*
 
-*Data yang digunakan hingga 05 Agustus 2020*.
+*Data diambil dari <a href="https://kawalcovid19.id" target="_blank">KawalCOVID19 </a> hingga 05 Agustus 2020*.
 
 
 ### Indonesia
