@@ -16,3 +16,7 @@ permalink: /publications/
 - M. Z. Ndii, P. Hadisoemarto, D. Agustian, A. K. Supriatna, An Analysis of Covid-19 Transmission in Indonesia and Saudi Arabia, <a href="http://journals.itb.ac.id/index.php/cbms/article/view/13611" target="_blank">CBMS</a>, 2020.
 - E. Soewono, On the Analysis of Covid-19 Transmission in Wuhan, Diamond Princess and Jakarta-cluster, <a href="http://journals.itb.ac.id/index.php/cbms/article/view/13441" target="_blank">CBMS</a>, 2020.
 - N. Nuraini, K. Khairudin, M. Apri, Modeling Simulation of COVID-19 in Indonesia based on Early Endemic Data, <a href="http://journals.itb.ac.id/index.php/cbms/article/view/13395" target="_blank">CBMS</a>, 2020.
+
+{% raw %}
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="100%" src="http://ppms.itb.ac.id/simcovid/"></iframe>
+{% endraw %}
