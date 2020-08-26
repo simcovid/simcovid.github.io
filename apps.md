@@ -5,5 +5,5 @@ permalink: /apps/
 ---
 
 {% raw %}
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="900" height="600" src="http://ppms.itb.ac.id/simcovid/"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="900" height="600" src="http://ppms.itb.ac.id/simcovid/">Covid Meter</iframe>
 {% endraw %}
