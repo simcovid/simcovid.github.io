@@ -10,6 +10,7 @@ permalink: /publications/
 - A. Hasan, E. Putri, H. Susanto, N. Nuraini, <i>Data-driven modeling and forecasting of COVID-19 outbreak for public policy making</i>, <a href="https://doi.org/10.1101/2020.07.30.20165555" target="_blank">medRxiv</a>, 2020.
 - A. Hasan, H. Susanto, M. Kasim, N. Nuraini, B. Lestari, D. Triany, W. Widyastuti, <i>Superspreading in Early Transmissions of COVID-19 in Indonesia</i>, <a href="https://doi.org/10.1101/2020.06.28.20142133" target="_blank">medRxiv</a>, 2020.
 - A. Hasan, Y. Nasution, H. Susanto, E. Putri, V. Tjahjono, D. Puspita, K. Sukandar, N. Nuraini, W. Widyastuti, <i>Modeling COVID-19 Transmissions and Evaluation of Large Scale Social Restriction in Jakarta, Indonesia</i>, <a href="https://doi.org/10.1101/2020.10.30.20222984" target="_blank">medRxiv</a>, 2020.
+- N. Nuraini, K. Khairudin, P. Hadisoemarto, H. Susanto, A. Hasan, N. Sumarti, <i>Mathematical Models for Assessing Vaccination Scenarios in Several Provinces in Indonesia</i>, <a href="https://doi.org/10.1101/2020.12.21.20248241" target="_blank">medRxiv</a>, 2020.
 
 ### Publikasi Nasional
 
