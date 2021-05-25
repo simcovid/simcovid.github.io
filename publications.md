@@ -6,6 +6,7 @@ permalink: /publications/
 
 ### Publikasi Internasional
 
+- A. Fuady, N. Nuraini, K.K. Sukandar, B.W. Lestari, <i>Targeted Vaccine Allocation Could Increase the COVID-19 Vaccine Benefits Amidst Its Lack of Availability: A Mathematical Modeling Study in Indonesia</i>, <a href="https://doi.org/10.3390/vaccines9050462" target="_blank">Vaccines</a>, 2021.
 - A. Hasan, E. Putri, H. Susanto, N. Nuraini, <i>Data-driven modeling and forecasting of COVID-19 outbreak for public policy making</i>, <a href="https://www.sciencedirect.com/science/article/pii/S0019057821000306?via%3Dihub" target="_blank">ScienceDirect</a>, 2021.
 - A. Hasan, H. Susanto, V.R. Tjahjono, R. Kusdiantara, E.R.M. Putri, P. Hadisoemarto, N. Nuraini, <i>A new estimation method for COVID-19 time-varying reproduction number using active cases</i>, <a href="https://arxiv.org/abs/2006.03766" target="_blank">arXiv:2006.03766</a>, 2020.
 - A. Hasan, H. Susanto, M. Kasim, N. Nuraini, B. Lestari, D. Triany, W. Widyastuti, <i>Superspreading in Early Transmissions of COVID-19 in Indonesia</i>, <a href="https://www.nature.com/articles/s41598-020-79352-5" target="_blank">Scientific Report</a>, 2020.
